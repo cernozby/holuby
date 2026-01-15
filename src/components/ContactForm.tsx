@@ -93,7 +93,7 @@ const ContactForm = () => {
                 <h3 className="text-xl font-bold text-foreground mb-6">Kontaktní údaje</h3>
                 <div className="space-y-4">
                   <a
-                    href="tel:+420123456789"
+                    href="tel:+420739549728"
                     className="flex items-center gap-4 p-4 rounded-xl bg-card card-shadow hover:card-shadow-hover transition-all group"
                   >
                     <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
@@ -101,7 +101,7 @@ const ContactForm = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Telefon</p>
-                      <p className="font-semibold text-foreground">+420 123 456 789</p>
+                      <p className="font-semibold text-foreground">+420 739 549 728</p>
                     </div>
                   </a>
 

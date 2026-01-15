@@ -50,9 +50,9 @@ const Header = () => {
 
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-4">
-            <a href="tel:+420123456789" className="flex items-center gap-2 text-sm font-medium text-primary">
+            <a href="tel:+420739549728" className="flex items-center gap-2 text-sm font-medium text-primary">
               <Phone className="w-4 h-4" />
-              +420 123 456 789
+              +420 739 549 728
             </a>
             <Button variant="accent" onClick={() => scrollToSection("kontakt")}>
               Nezávazná poptávka
@@ -92,11 +92,11 @@ const Header = () => {
                 Kontakt
               </button>
               <a
-                href="tel:+420123456789"
+                href="tel:+420739549728"
                 className="flex items-center gap-2 py-2 text-primary font-medium"
               >
                 <Phone className="w-4 h-4" />
-                +420 123 456 789
+                +420 739 549 728
               </a>
               <Button variant="accent" className="w-full mt-2" onClick={() => scrollToSection("kontakt")}>
                 Nezávazná poptávka
