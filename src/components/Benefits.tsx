@@ -1,4 +1,4 @@
-import { Shield, Clock, Award, Wrench, Users, ThumbsUp } from "lucide-react";
+import { Shield, Clock, Award, Wrench, Users } from "lucide-react";
 
 const benefits = [
   {
@@ -25,11 +25,6 @@ const benefits = [
     icon: Users,
     title: "Bezplatná konzultace",
     description: "Přijedeme, prohlédneme prostor a připravíme nezávaznou cenovou nabídku zdarma.",
-  },
-  {
-    icon: ThumbsUp,
-    title: "Spokojenost zákazníků",
-    description: "Více než 2000 spokojených zákazníků po celé České republice.",
   },
 ];
 
