@@ -130,14 +130,6 @@ const ContactForm = () => {
                 </div>
               </div>
 
-              <div className="p-6 rounded-xl hero-gradient">
-                <h4 className="text-lg font-bold text-primary-foreground mb-2">Pracovní doba</h4>
-                <div className="space-y-1 text-primary-foreground/80 text-sm">
-                  <p>Pondělí - Pátek: 8:00 - 17:00</p>
-                  <p>Sobota: 9:00 - 12:00</p>
-                  <p>Neděle: Zavřeno</p>
-                </div>
-              </div>
             </div>
 
             {/* Form */}
